@@ -1,0 +1,25 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "A simple webpack project",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "webpack -d --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dsaint109/webpack-project.git"
+  },
+  "keywords": [
+    "webpack",
+    "simple",
+    "start",
+    "beginner"
+  ],
+  "author": "David Saint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dsaint109/webpack-project/issues"
+  },
+  "homepage": "https://github.com/Dsaint109/webpack-project#readme"
+}
